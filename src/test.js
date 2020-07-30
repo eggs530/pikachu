@@ -1,6 +1,5 @@
-<script type="module">
 import string from './css.js' 
-</script>
+console.log('1')
 
 /*写入到了属性中
 const demo = document.querySelector('#demo')
