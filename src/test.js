@@ -1,4 +1,6 @@
-import string from './css.js'
+<script type="module">
+import string from './css.js' 
+</script>
 
 /*写入到了属性中
 const demo = document.querySelector('#demo')
